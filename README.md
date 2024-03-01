@@ -17,17 +17,24 @@
 ## GitHub Stats
 <p>
   
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakyeongg&show_icons=true) -->
   ![nakyeongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakyeongg\&rank_icon=github)
+  <!--![nakyeongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakyeongg\&rank_icon=percentile)-->
 </p>
 
 ## Ranking
 <p>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1mthebest)](https://solved.ac/1mthebest/)
-  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=1mthebest&theme=cold) -->
+ <!--  ![1mthebest's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=1mthebest)-->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1mthebest)](https://solved.ac/1mthebest/) 
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=1mthebest&theme=cold)
 </p>
 
 ## Project
 <p>
   ▪ 파크골프하나로[FE] : <a href="https://www.parkgolfone.com/">https://www.parkgolfone.com/</a>
 </p>
+
+<!-- <p>
+  [![nakyeongg's github activity graph](https://activity-graph.herokuapp.com/graph?username=nakyeongg&theme=monokai)](https://github.com/nakyeongg/github-readme-activity-graph) 
+</p>-->
