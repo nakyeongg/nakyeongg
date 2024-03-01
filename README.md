@@ -27,7 +27,7 @@
   
  <!--  ![1mthebest's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=1mthebest)-->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1mthebest)](https://solved.ac/1mthebest/) 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=1mthebest&theme=cold)
+  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=1mthebest&theme=cold)-->
 </p>
 
 ## Project
