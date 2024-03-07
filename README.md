@@ -1,15 +1,9 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnakyeongg%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Nakyeong%20Yoon&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩🏻‍💻</h2> <br> 
-    <div style="text-align: left;"> <a href=https://velog.io/@nakyeongg/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nakyeongg/posts"> </a>
-         <a href=mailto:yunna6699@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yunna6699@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    
+## I'm Nakyeong Yoon👩🏻‍💻
+<div style="text-align: left;"> 
+    <a href=https://velog.io/@nakyeongg/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nakyeongg/posts"> </a>
+    <a href=mailto:yunna6699@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yunna6699@gmail.com"> </a>
+</div>
 
 ## Tech Stack
 <div> 
